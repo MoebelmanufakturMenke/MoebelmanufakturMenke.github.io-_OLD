@@ -1,16 +1,17 @@
-title: Multiverse by HTML5 UP
+title: Moebelmanufaktur Menke
 author: Lars Menke
-  email: l.mm@aol.com
+  email: m.l_m@aol.com
 description: >-
   Moebelmanufaktur Menke, die Tischlerei Ihres Vertrauens
 
 social:
+<!--
   twitter: LMenke
   facebook: LMenke
   instagram: LMenke
   github: LMenke
   linkedin:
-
+-->
 # Build settings
 markdown: kramdown
 plugins:
