@@ -9,7 +9,7 @@
 This is a Jekyll site template based on the [Multiverse](https://html5up.net/multiverse) template by [HTML5 UP](https://html5up.net)
 -->
 
-Wiklommen auf unserer Homepage, wir hoffen Sie mit unseren Möbeln begeistern zu können.
+Willkommen auf unserer Homepage, wir hoffen Sie mit unseren Möbeln begeistern zu können.
 Gerne sprechen wir auch persönlich mit Ihnen um Ihre Traummöbel als Einzigartige Werkstücke für Sie zu designen.
 
 <!--
