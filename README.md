@@ -21,8 +21,10 @@ Each of the images displayed in the website is its own separate *post*:
 Demo: https://joaomlneto.github.io/jekyll-multiverse-template/
 -->
 
+<!--
 ## Showcase
 
 - [Tische](https://rodrigues.neto.pt)
 - [Stühle](https://rodrigues.neto.pt)
 - [Treppen](https://rodrigues.neto.pt)
+-->
