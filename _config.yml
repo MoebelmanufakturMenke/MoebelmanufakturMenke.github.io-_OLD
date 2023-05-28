@@ -3,9 +3,11 @@ author: Lars Menke
 email: info@moebelmanufaktur-menke.com
 description: >-
   Möbelmanufaktur Menke, wir stehen für
-  - Innovation u. Kreativität
-  - Indivitualität
-  - Flexibiität
+  <ul>
+    <li>Innovation u. Kreativität</li>
+    <li>Individualität</li>
+    <li>Flexibilität</li>
+  </ul>
 
 social:
   twitter: 
