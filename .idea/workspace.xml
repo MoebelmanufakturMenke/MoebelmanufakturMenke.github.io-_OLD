@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7747d52-aa10-400d-8206-393199a49048" name="Changes" comment="...">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-    </list>
+    <list default="true" id="a7747d52-aa10-400d-8206-393199a49048" name="Changes" comment="Adress" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +56,7 @@
       <workItem from="1687357466127" duration="73000" />
       <workItem from="1687357615224" duration="48000" />
       <workItem from="1691657187809" duration="143000" />
-      <workItem from="1693217077964" duration="404000" />
+      <workItem from="1693217077964" duration="1215000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1685189664084</created>
@@ -159,7 +156,15 @@
       <option name="project" value="LOCAL" />
       <updated>1685368201670</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Adress">
+      <option name="closed" value="true" />
+      <created>1693217621552</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1693217621552</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +183,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="Adress" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adress" />
   </component>
 </project>
