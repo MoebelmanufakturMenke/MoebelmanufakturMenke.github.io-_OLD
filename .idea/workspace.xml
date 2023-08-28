@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7747d52-aa10-400d-8206-393199a49048" name="Changes" comment="Adress" />
+    <list default="true" id="a7747d52-aa10-400d-8206-393199a49048" name="Changes" comment="Update Email Optic" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +56,7 @@
       <workItem from="1687357466127" duration="73000" />
       <workItem from="1687357615224" duration="48000" />
       <workItem from="1691657187809" duration="143000" />
-      <workItem from="1693217077964" duration="1215000" />
+      <workItem from="1693217077964" duration="1604000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1685189664084</created>
@@ -164,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693217621552</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Update Email Optic">
+      <option name="closed" value="true" />
+      <created>1693218631972</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1693218631972</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +192,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="..." />
     <MESSAGE value="Adress" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adress" />
+    <MESSAGE value="Update Email Optic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Email Optic" />
   </component>
 </project>
