@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7747d52-aa10-400d-8206-393199a49048" name="Changes" comment="Update no Coockie Setting + SSO Google Suche">
+    <list default="true" id="a7747d52-aa10-400d-8206-393199a49048" name="Changes" comment="Update Aufbautext der Bilder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/01.md" beforeDir="false" afterPath="$PROJECT_DIR$/_images/01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_images/02.md" beforeDir="false" afterPath="$PROJECT_DIR$/_images/02.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,7 +62,7 @@
       <workItem from="1687357615224" duration="48000" />
       <workItem from="1691657187809" duration="143000" />
       <workItem from="1693217077964" duration="1885000" />
-      <workItem from="1697359481153" duration="1955000" />
+      <workItem from="1697359481153" duration="2566000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1685189664084</created>
@@ -191,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697360785694</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Update Aufbautext der Bilder">
+      <option name="closed" value="true" />
+      <created>1697361532020</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697361532020</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +224,7 @@
     <MESSAGE value="Adress" />
     <MESSAGE value="Update Email Optic" />
     <MESSAGE value="Update no Coockie Setting + SSO Google Suche" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update no Coockie Setting + SSO Google Suche" />
+    <MESSAGE value="Update Aufbautext der Bilder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Aufbautext der Bilder" />
   </component>
 </project>
