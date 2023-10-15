@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7747d52-aa10-400d-8206-393199a49048" name="Changes" comment="Update Email Optic">
+    <list default="true" id="a7747d52-aa10-400d-8206-393199a49048" name="Changes" comment="Update no Coockie Setting + SSO Google Suche">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/google-analytics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/google-analytics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +59,7 @@
       <workItem from="1687357615224" duration="48000" />
       <workItem from="1691657187809" duration="143000" />
       <workItem from="1693217077964" duration="1885000" />
-      <workItem from="1697359481153" duration="1097000" />
+      <workItem from="1697359481153" duration="1955000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1685189664084</created>
@@ -187,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693218831274</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Update no Coockie Setting + SSO Google Suche">
+      <option name="closed" value="true" />
+      <created>1697360785694</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697360785694</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +212,7 @@
     <MESSAGE value="..." />
     <MESSAGE value="Adress" />
     <MESSAGE value="Update Email Optic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Email Optic" />
+    <MESSAGE value="Update no Coockie Setting + SSO Google Suche" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update no Coockie Setting + SSO Google Suche" />
   </component>
 </project>
